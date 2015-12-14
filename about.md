@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A truly awesome guy.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zhennan.wang@me.com](mailto:zhennan.wang@me.com)
