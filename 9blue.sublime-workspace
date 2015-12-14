@@ -1,0 +1,1125 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"range",
+				"range〔function〕"
+			],
+			[
+				"di",
+				"divisor"
+			],
+			[
+				"de",
+				"decimal"
+			],
+			[
+				"div",
+				"dividend"
+			],
+			[
+				"int",
+				"integer"
+			],
+			[
+				"divi",
+				"dividend"
+			],
+			[
+				"lon",
+				"longest_substr_k_unique_chrs"
+			],
+			[
+				"s",
+				"start"
+			],
+			[
+				"max",
+				"max_len"
+			],
+			[
+				"chr",
+				"chr_map"
+			],
+			[
+				"ch",
+				"chr_map"
+			],
+			[
+				"el",
+				"elif〔keyword〕"
+			],
+			[
+				"heap",
+				"heapq"
+			],
+			[
+				"hea",
+				"heapsort"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"mirrorTreeRec",
+				"mirrorTreeRecCopy"
+			],
+			[
+				"print",
+				"printTree"
+			],
+			[
+				"mirr",
+				"mirrorTree"
+			],
+			[
+				"cur",
+				"curLine"
+			],
+			[
+				"sp",
+				"spaceNum"
+			],
+			[
+				"tm",
+				"tmpC"
+			],
+			[
+				"min",
+				"minCur"
+			],
+			[
+				"num",
+				"nums"
+			],
+			[
+				"len",
+				"len〔function〕"
+			],
+			[
+				"right",
+				"right"
+			],
+			[
+				"Lis",
+				"ListNode"
+			],
+			[
+				"True",
+				"True"
+			],
+			[
+				"no",
+				"node1"
+			],
+			[
+				"node",
+				"node2"
+			],
+			[
+				"c",
+				"checker"
+			],
+			[
+				"val",
+				"val"
+			],
+			[
+				"has",
+				"hasPathSum"
+			],
+			[
+				"F",
+				"False	(balancedBinaryTree.py)"
+			],
+			[
+				"n",
+				"newWord"
+			],
+			[
+				"b",
+				"beforeChar"
+			],
+			[
+				"word",
+				"wordList"
+			],
+			[
+				"m",
+				"max_len"
+			],
+			[
+				"cu",
+				"cur_len"
+			],
+			[
+				"nums",
+				"nums_set"
+			],
+			[
+				"comm",
+				"comm-subsection	Comment - Subsection comment"
+			],
+			[
+				"p",
+				"pair"
+			],
+			[
+				"ord",
+				"ord〔function〕"
+			],
+			[
+				"can",
+				"candyNum〔variable〕"
+			],
+			[
+				"ca",
+				"candyNum"
+			],
+			[
+				"d",
+				"dividend"
+			],
+			[
+				"nu",
+				"nums1"
+			],
+			[
+				"r",
+				"root"
+			],
+			[
+				"is",
+				"isSameTree"
+			],
+			[
+				"v",
+				"v2Token"
+			],
+			[
+				"l",
+				"len2"
+			],
+			[
+				"ver",
+				"version2"
+			],
+			[
+				"pa",
+				"pathQ〔variable〕"
+			],
+			[
+				"new",
+				"new_node"
+			],
+			[
+				"he",
+				"helper"
+			],
+			[
+				"Tre",
+				"TrieNode"
+			],
+			[
+				"pr",
+				"private"
+			],
+			[
+				"T",
+				"TrieNode"
+			],
+			[
+				"None",
+				"None〔keyword〕"
+			],
+			[
+				"ma",
+				"maxLen"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"char",
+				"charMap"
+			],
+			[
+				"M",
+				"MIN_VAL"
+			],
+			[
+				"re",
+				"reversed"
+			],
+			[
+				"String",
+				"StringBuilder"
+			],
+			[
+				"tar",
+				"target-val"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"com",
+				"comm	Comment - Single-line block comment"
+			],
+			[
+				"li",
+				"listp"
+			],
+			[
+				"ri",
+				"rio_t"
+			],
+			[
+				"rio",
+				"rio_t"
+			],
+			[
+				"sen",
+				"send_request"
+			],
+			[
+				"Pth",
+				"pthread_self"
+			],
+			[
+				"cli",
+				"clientlen"
+			],
+			[
+				"con",
+				"connfdp"
+			],
+			[
+				"e",
+				"exit"
+			],
+			[
+				"f",
+				"fprintf	fprintf …"
+			],
+			[
+				"arg",
+				"argc"
+			],
+			[
+				"host",
+				"hostname"
+			],
+			[
+				"ho",
+				"hostname"
+			],
+			[
+				"ht",
+				"http_scheme"
+			],
+			[
+				"st",
+				"static"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 335.0,
+		"last_filter": "git pus",
+		"selected_items":
+		[
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"gita",
+				"Git: Add..."
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"set",
+				"Set Syntax: Python"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"gti ",
+				"Git: Commit"
+			],
+			[
+				"gti add",
+				"Git: Add..."
+			],
+			[
+				"set p",
+				"Set Syntax: Python"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"set ",
+				"Set Syntax: Python"
+			],
+			[
+				"se",
+				"Set Syntax: Python"
+			],
+			[
+				"gti c",
+				"Git: Commit"
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"gt add",
+				"Git: Add..."
+			],
+			[
+				"set py",
+				"Set Syntax: Python"
+			],
+			[
+				"setpy",
+				"Set Syntax: Python"
+			],
+			[
+				"git ad ",
+				"Git: Add..."
+			],
+			[
+				"setp",
+				"Set Syntax: Python"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"gitad",
+				"Git: Add..."
+			],
+			[
+				"git add ",
+				"Git: Add..."
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"set jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set pyh",
+				"Set Syntax: Python"
+			],
+			[
+				"git  ad",
+				"Git: Add..."
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set sy",
+				"Set Syntax: Python"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"pacint",
+				"Package Control: Install Package"
+			],
+			[
+				"pac remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git  com",
+				"Git: Commit"
+			],
+			[
+				"git commit ",
+				"Git: Commit"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"ja",
+				"Set Syntax: Java"
+			],
+			[
+				"a",
+				"Git: Add..."
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"ad d",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"set pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"set python",
+				"Set Syntax: Python"
+			],
+			[
+				"show all ",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"error",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"u",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ad",
+				"Git: Add Current File"
+			],
+			[
+				"setjava",
+				"Set Syntax: Java"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"SET ja",
+				"Set Syntax: Java"
+			],
+			[
+				"SET",
+				"Set Syntax: Python"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"set pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"step",
+				"Set Syntax: Python"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"la te",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insl",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Changelog"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 311.0,
+		"history":
+		[
+			"2^3",
+			"2**3",
+			"pthon",
+			"view.run_command('alignment')",
+			"ls",
+			"l s",
+			"sudo tlmgr install latexmk",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/zwang/Documents/9blue.github.io"
+	],
+	"file_history":
+	[
+		"/Users/zwang/Documents/9blue.github.io/_config.yml",
+		"/Users/zwang/Desktop/index.html",
+		"/Users/zwang/Documents/Courses/650/650 hw/hw10_zhennan1.tex",
+		"/Users/zwang/.oh-my-zsh/themes/agnoster.zsh-theme",
+		"/Users/zwang/Desktop/www/index.html",
+		"/Users/zwang/Desktop/www/assets/css/main.css",
+		"/Users/zwang/Desktop/html5up-aerial/README.txt",
+		"/Users/zwang/Desktop/html5up-aerial/LICENSE.txt",
+		"/Users/zwang/Documents/Courses/741/741hw4/find_country.py",
+		"/Users/zwang/.zshrc",
+		"/Users/zwang/Desktop/hw9.ltx",
+		"/Users/zwang/Documents/Courses/650/650 hw/hw9_zhennan1.tex",
+		"/Users/zwang/Desktop/算法/Code/Leetcode/LeetCode-master 2/Python/wiggle-sort.py",
+		"/Users/zwang/Desktop/算法/Code/Leetcode/LeetCode-master 2/Python/median-of-two-sorted-arrays.py",
+		"/Users/zwang/Desktop/算法/Code/Leetcode/LeetCode-master 2/Python/kth-smallest-element-in-a-bst.py",
+		"/Users/zwang/Documents/leetcode/spiral_matrix.py",
+		"/Users/zwang/Documents/Courses/650/650 hw/hw8_zhennan1.tex",
+		"/Users/zwang/Documents/leetcode/fraction_recur_decimal.py",
+		"/Users/zwang/Documents/leetcode/divideTwoIntegers.py",
+		"/Users/zwang/Documents/leetcode/binary_tree_path.py",
+		"/Users/zwang/Documents/leetcode/longest_substr_k_unique_chrs.py",
+		"/Users/zwang/Documents/leetcode/summary_range.py",
+		"/Users/zwang/Documents/leetcode/validParentheses.py",
+		"/Users/zwang/Documents/leetcode/binaryTreeInorderTraversal.py",
+		"/Users/zwang/Documents/leetcode/mergeInterval.py",
+		"/Users/zwang/Documents/leetcode/wordLadder.py",
+		"/Users/zwang/Documents/leetcode/longestCommonPrefix.py",
+		"/Users/zwang/Documents/leetcode/validNumber.py",
+		"/Users/zwang/Documents/leetcode/maximumSubarraySum.py",
+		"/Users/zwang/Documents/leetcode/MergeTwoSortedLinkedList.py",
+		"/Users/zwang/Documents/leetcode/heap.py",
+		"/Users/zwang/Documents/leetcode/findMinRotatedSortedArrayII.py",
+		"/Users/zwang/Documents/leetcode/searchRotatedSortedArrayII.py",
+		"/Users/zwang/Documents/leetcode/textJustification.py",
+		"/Users/zwang/Documents/leetcode/mirrorTree.py",
+		"/Users/zwang/Documents/leetcode/searchRotatedSortedArray.py",
+		"/Users/zwang/Documents/leetcode/isomorphicstr.py",
+		"/Users/zwang/Documents/leetcode/EvaRPN.py",
+		"/Users/zwang/Documents/leetcode/mergeSortedArray.py",
+		"/Users/zwang/Documents/Courses/741/741hw2/zhennan1_goldticket.py",
+		"/Users/zwang/Documents/Courses/650/650 hw/hw7_zhennan1.tex",
+		"/Users/zwang/Documents/leetcode/symmetrictree.py",
+		"/Users/zwang/Documents/leetcode/findMinRotatedSortedArray.py",
+		"/Users/zwang/Documents/leetcode/maximumProductSubarray.py",
+		"/Users/zwang/Documents/leetcode/wordbreak.py",
+		"/Users/zwang/Documents/leetcode/longestConsecutive.py",
+		"/Users/zwang/Documents/leetcode/search2DMatrixII.py",
+		"/Users/zwang/Documents/leetcode/fibSum.py",
+		"/Users/zwang/Documents/leetcode/insertInterval.py",
+		"/Users/zwang/Documents/leetcode/3sum.py",
+		"/Users/zwang/Documents/leetcode/wiggleSort.py",
+		"/Users/zwang/Documents/leetcode/addTwoNumbers.py",
+		"/Users/zwang/Documents/leetcode/bullsandcows.py",
+		"/Users/zwang/Documents/leetcode/reverseBits.py",
+		"/Users/zwang/Documents/leetcode/factorialTrailingZeroes.py",
+		"/Users/zwang/Desktop/740 reading/floyd93.txt",
+		"/Users/zwang/Documents/leetcode/removeDuplicatesSortedArray.py",
+		"/Users/zwang/Documents/leetcode/powerOfTwo.py",
+		"/Users/zwang/Documents/leetcode/balancedBinaryTree.py",
+		"/Users/zwang/Documents/leetcode/pathsum.py",
+		"/Users/zwang/Documents/leetcode/pathsumII.py",
+		"/Users/zwang/Documents/leetcode/happynumber.py",
+		"/Users/zwang/Documents/leetcode/uglynumber.py",
+		"/Users/zwang/Documents/leetcode/plusOne.py",
+		"/Users/zwang/Documents/leetcode/minDepth.py",
+		"/Users/zwang/Documents/leetcode/implementTrie.py",
+		"/Users/zwang/Documents/leetcode/implementstackwithqueue.py",
+		"/Users/zwang/Documents/leetcode/implementqueuewithstack.py",
+		"/Users/zwang/Documents/leetcode/maxDepth.py",
+		"/Users/zwang/Documents/leetcode/findDuplicate.py",
+		"/Users/zwang/Documents/leetcode/wordpattern.py",
+		"/Users/zwang/Documents/leetcode/levelOrder.py",
+		"/Users/zwang/Documents/leetcode/rotateArray.py",
+		"/Users/zwang/Documents/leetcode/findKthLargest.py",
+		"/Users/zwang/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/zwang/Documents/leetcode/twoSum.js",
+		"/Users/zwang/Documents/leetcode/climbStairs.py",
+		"/Users/zwang/Documents/Courses/741/741hw2/zhennan1-hw2.tex",
+		"/Users/zwang/Documents/leetcode/reverseLinkedList.js",
+		"/Users/zwang/Documents/leetcode/int2roman.py",
+		"/Users/zwang/Documents/leetcode/productArrayExceptSelf.py",
+		"/Users/zwang/Documents/leetcode/roman2Int.py",
+		"/Users/zwang/Documents/leetcode/numberof1bits.py",
+		"/Users/zwang/Documents/leetcode/excelSheetColumnNumber.py",
+		"/Users/zwang/Documents/leetcode/excelSheetColumnTitle.py",
+		"/Users/zwang/Documents/leetcode/majorityElement.py",
+		"/Users/zwang/Documents/leetcode/ExcelTiltetoNumber.py",
+		"/Users/zwang/Documents/leetcode/ExcelNumberToNumber.py",
+		"/Users/zwang/Documents/leetcode/candy.py",
+		"/Users/zwang/Documents/leetcode/Valid Palindrome.py",
+		"/Users/zwang/Documents/leetcode/sameTree.py",
+		"/Users/zwang/Documents/leetcode/compVersion.py",
+		"/Users/zwang/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/zwang/Documents/leetcode/deleteNode.py",
+		"/Users/zwang/Documents/leetcode/invertBinaryTree.py",
+		"/Users/zwang/Library/Application Support/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/Users/zwang/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/zwang/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/zwang/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/zwang/Documents/leetcode/singleNumberIII.py",
+		"/Users/zwang/Documents/leetcode/reverseLinkedList.py",
+		"/Users/zwang/Documents/leetcode/generateParentheses.py",
+		"/Users/zwang/Documents/leetcode/btLCA.py",
+		"/Users/zwang/Documents/leetcode/bstLCA.py",
+		"/Users/zwang/Documents/leetcode/removeNthNodeFromEnd.py",
+		"/Users/zwang/Documents/leetcode/linkedList.py",
+		"/Users/zwang/Documents/leetcode/sortedListToBST.py",
+		"/Users/zwang/Documents/leetcode/sortedArrayToBST.py",
+		"/Users/zwang/Documents/leetcode/sortList.py",
+		"/Users/zwang/Documents/leetcode/removeDuplicateSortedList.py",
+		"/Users/zwang/Documents/leetcode/removeLinkedListElem.py",
+		"/Users/zwang/Documents/leetcode/implementTrie.java",
+		"/Users/zwang/Documents/leetcode/isPalindrome.py",
+		"/Users/zwang/Documents/leetcode/addDigits.py",
+		"/Users/zwang/Documents/leetcode/levelOrderBottom.py",
+		"/Users/zwang/Documents/leetcode/LRUCache.py",
+		"/Users/zwang/Documents/leetcode/maximumGap.py",
+		"/Users/zwang/Documents/leetcode/containsNearbyAlmostDuplicate.py",
+		"/Users/zwang/Documents/leetcode/lengthOfLongestSubstring.py",
+		"/Users/zwang/Documents/leetcode/myAtoi.java",
+		"/Users/zwang/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/zwang/Library/Application Support/Sublime Text 3/Installed Packages/Alignment.sublime-package",
+		"/Users/zwang/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/Users/zwang/Documents/leetcode/myAtoi.py",
+		"/Users/zwang/Documents/leetcode/reverseWords.java",
+		"/Users/zwang/Documents/leetcode/reverseWords.py",
+		"/Users/zwang/Desktop/norton2010.txt",
+		"/Users/zwang/Documents/leetcode/.gitignore"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"plugin",
+			"ans",
+			"dfs",
+			"curchr",
+			"new",
+			"curLineSumLen",
+			"n",
+			"quotient",
+			"oot",
+			"        ",
+			"chilren",
+			"ctrl+shift+a",
+			"\"",
+			"dis",
+			"\\)",
+			"\\(",
+			"denote",
+			"induce",
+			"®",
+			"\\t",
+			"powerten",
+			"sem_init",
+			"P",
+			"Getaddrinfo",
+			"Getnameinfo",
+			"pen_clientf",
+			"pen_clientfP",
+			"pen_clientfd",
+			"gai_strerror",
+			"Getaddrinfo",
+			"Getaddrinfo error",
+			"Rio",
+			"Rio_writen",
+			"Rio_readn",
+			"Rio_readn_w",
+			"Rio_writ",
+			"Rio_readnb",
+			"Content-length",
+			"Rio_readlineb",
+			"Content-length",
+			"Rio_readlineb",
+			"clienterror",
+			"Rio_writen error",
+			"send_request",
+			"send_req",
+			"request",
+			"send_req",
+			"longmsg",
+			"shortmsg",
+			"connfd"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 210.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 110.0
+	},
+	"pinned_build_system": "",
+	"project": "9blue.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"kth",
+				"kth-smallest-element-in-a-bst.py"
+			],
+			[
+				"medi",
+				"median-of-two-sorted-arrays.py"
+			],
+			[
+				"wig",
+				"wiggle-sort.py"
+			],
+			[
+				"game",
+				"289 Game of Life.py"
+			],
+			[
+				"wordb",
+				"139 Word Break.py"
+			],
+			[
+				"vali",
+				"validParentheses.py"
+			],
+			[
+				"",
+				"binaryTreeInorderTraversal.py"
+			],
+			[
+				"merg",
+				"mergeInterval.py"
+			],
+			[
+				"word",
+				"wordLadder.py"
+			],
+			[
+				"i",
+				"isomorphicstr.py"
+			],
+			[
+				"sear",
+				"searchRotatedSortedArray.py"
+			],
+			[
+				"max",
+				"maximumSubarraySum.py"
+			],
+			[
+				"mer",
+				"mergeSortedArray.py"
+			],
+			[
+				"merge",
+				"MergeTwoSortedLinkedList.py"
+			],
+			[
+				"ism",
+				"isomorphicstr.py"
+			],
+			[
+				"sy",
+				"symmetrictree.py"
+			],
+			[
+				"con",
+				"longestConsecutive.py"
+			],
+			[
+				"inorder",
+				"binaryTreeInorderTraversal.py"
+			],
+			[
+				"f",
+				"fibSum.py"
+			],
+			[
+				"interv",
+				"insertInterval.py"
+			],
+			[
+				"bal",
+				"balancedBinaryTree.py"
+			],
+			[
+				"plus",
+				"plusOne.py"
+			],
+			[
+				"impl",
+				"implementTrie.py"
+			],
+			[
+				"leve",
+				"levelOrder.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 280.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

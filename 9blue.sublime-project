@@ -1,0 +1,23 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"_site",
+				".DS_Store",
+				".jekyll",
+				".bundle",
+				".sass-cache",
+				"Gemfile",
+				"Gemfile.lock",
+				"node_modules",
+				"package.json"
+			],
+			"folder_exclude_patterns":
+			[
+			],
+			"path": "."
+		}
+	]
+}
